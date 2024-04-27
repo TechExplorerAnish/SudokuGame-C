@@ -43,13 +43,13 @@ To run the project, follow these steps:
 
 ### 🖼️ Game Screenshots
 
-![First page ](firstpage.png)
-![Sudoku Game Screenshot](help.png)
-![Sudoku Game Screenshot](levels.png)
-![Sudoku Game Screenshot](blankCellSelected.png)
-![Sudoku Game Screenshot](filledCellSelected.png)
-![Sudoku Game Screenshot](feedback.png)
-![Sudoku Game Screenshot](over.png)
+![First page ](./img/firstpage.png)
+![Sudoku Game Screenshot](./img/help.png)
+![Sudoku Game Screenshot](./img/levels.png)
+![Sudoku Game Screenshot](./img/blankCellSelected.png)
+![Sudoku Game Screenshot](./img/filledCellSelected.png)
+![Sudoku Game Screenshot](./img/feedback.png)
+![Sudoku Game Screenshot](./img/over.png)
 
 ### 🎮 Game Credits
 
